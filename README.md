@@ -1,4 +1,4 @@
-# Kaggle Competition - [Spaceship Titanic]
+# Kaggle Competition - Spaceship Titanic
 
 This repository contains my work for the [Competition Name](https://www.kaggle.com/competitions/spaceship-titanic) on Kaggle.
 
